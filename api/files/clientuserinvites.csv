@@ -1,0 +1,10 @@
+email,clientcode,userType,accepted,role,inviter
+user4@flexmoney.in,flexmoney,CLIENT_USER,false,ADMIN,user1@flexmoney.in
+user2@flexmoney.in,flexmoney,CLIENT_USER,true,ADMIN,user1@flexmoney.in
+user4@flexmoney.in,flexmoney,CLIENT_USER,true,ADMIN,satheesh@spottabl.com
+user6@flexmoney.in,flexmoney,CLIENT_USER,true,JOB_MANAGER,satheesh@spottabl.com
+user7@flexmoney.in,flexmoney,CLIENT_USER,false,ADMIN,priyanka@spottabl.com
+user5@flexmoney.in,flexmoney,CLIENT_USER,true,ADMIN,user1@flexmoney.in
+user8@flexmoney.in,flexmoney,CLIENT_USER,false,ADMIN,priyanka@spottabl.com
+user3@flexmoney.in,flexmoney,CLIENT_USER,true,ADMIN,priyanka@spottabl.com
+user9@flexmoney.in,flexmoney,CLIENT_USER,false,ADMIN,priyanka@spottabl.com

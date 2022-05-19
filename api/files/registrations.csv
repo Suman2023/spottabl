@@ -1,0 +1,7 @@
+email,enabled,registrationtype,usertype
+user1@flexmoney.in,true,NORMAL,"[""CLIENT_USER""]"
+user4@flexmoney.in,true,INVITE,"[""CLIENT_USER""]"
+user5@flexmoney.in,true,INVITE,"[""CLIENT_USER""]"
+user6@flexmoney.in,true,INVITE,"[""CLIENT_USER""]"
+user2@flexmoney.in,true,INVITE,"[""CLIENT_USER""]"
+user3@flexmoney.in,true,INVITE,"[""CLIENT_USER""]"
